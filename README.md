@@ -1,6 +1,6 @@
 #Simple Python Programs
 
-A collection of basic Python programs for beginners.
+A collection of basic Python programs.
 
 #Programs
 1. Basic Mathematical Operations: Takes two numbers as input and performs addition, subtraction, multiplication, and division.
